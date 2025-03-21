@@ -4,7 +4,7 @@ This [NetBox](http://netboxlabs.com/oss/netbox/) plugin introduces branching fun
 
 ## Requirements
 
-* NetBox v4.1 or later
+* NetBox v4.1.8 or later
 * PostgreSQL 12 or later
 
 ## Installation
